@@ -9,7 +9,7 @@ The books are written for adult learners who read English well but make habitual
 | Book | Edition | Released | Download |
 |---|---|---|---|
 | English Articles — *a*, *an*, *the*, and the zero article | 2.0 | 2026-10-19 | [PDF](https://github.com/FurioCC/english-workbooks/releases/tag/articles-2.0) |
-| English Verb Frames — what follows a verb, and in what form | 1.0 | 2026-10-09 | [PDF](https://github.com/FurioCC/english-workbooks/releases/tag/verb-frames-1.0) |
+| English Verb Frames — what follows a verb, and in what form | 1.1 | 2026-10-25 | [PDF](https://github.com/FurioCC/english-workbooks/releases/tag/verb-frames-1.1) |
 
 Each book is a PDF attached to its release. A corrected edition gets a new release, and the table always shows the current one.
 
